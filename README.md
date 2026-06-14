@@ -111,5 +111,7 @@ Report generation
 Console-based user interaction
 
 Clean and structured Java coding practices :::
+Conclusion
 
+Student Grade Tracker is a practical and professional-grade academic performance management system that combines simplicity with functionality. It showcases strong programming fundamentals, efficient data handling techniques, and analytical capabilities, making it an ideal project for students, beginners, and aspiring software developers seeking to strengthen their Java development skills.
 
